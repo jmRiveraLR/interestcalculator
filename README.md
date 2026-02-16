@@ -1,2 +1,2 @@
 # interestcalculator
-us an interest calculator
+is an interest calculator, just clone the repo and run the code
